@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhassaanadil440" alt="mhassaanadil440" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hassaan" target="blank"><img src="https://img.shields.io/twitter/follow/hassaan?logo=twitter&style=for-the-badge" alt="hassaan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/just_hassaan" target="blank"><img src="https://img.shields.io/twitter/follow/hassaan?logo=twitter&style=for-the-badge" alt="hassaan" /></a> </p>
 
 - 🔭 I’m currently working on **Speed**
 
