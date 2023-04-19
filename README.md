@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hassaan</h1>
 <h3 align="center">A passionate React Native developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="300" src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.webp" >
+<img align="right" alt="coding" width="200" src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.webp" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhassaanadil440&label=Profile%20views&color=0e75b6&style=flat" alt="mhassaanadil440" /> </p>
 
